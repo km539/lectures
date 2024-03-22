@@ -11,17 +11,17 @@ Gitとはソースコードや変更履歴を管理するために使われる�
 
 PORCELAIN (82)
 
-- main commands (add, commit, push, pull, ..）
-- manipulators (config, reflog, replace, ..)
-- interrogators (blame, fsck, rerere, ..)
-- interactors (send-email, p4, svn, ..)
+- 主要コマンド (add, commit, push, pull, ..）
+- 操作 (config, reflog, replace, ..)
+- 調査 (blame, fsck, rerere, ..)
+- 連携 (send-email, p4, svn, ..)
 
 PLUMBING (63)
 
-- manipulators (apply, commit-tree, update-ref, ..)
-- interrogators (cat-file, for-each-ref, ..)
-- syncing (fetch-pack, send-pack, ..)
-- internal (check-attr, sh-i18n, ..)
+- 操作 (apply, commit-tree, update-ref, ..)
+- 調査 (cat-file, for-each-ref, ..)
+- 同期 (fetch-pack, send-pack, ..)
+- 内部 (check-attr, sh-i18n, ..)
 
 TOTAL: 145
 
